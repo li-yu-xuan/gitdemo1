@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace gitdemo
 {
-	class Program
+	class Class1
 	{
-		static void Main(string[] args)
-		{
-
-			Console.WriteLine("banana");
-			Console.WriteLine("apple");
-		}
 	}
 }
