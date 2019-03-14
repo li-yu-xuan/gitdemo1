@@ -13,6 +13,9 @@ namespace gitdemo
 
 			Console.WriteLine("banana");
 			Console.WriteLine("apple");
+			Console.WriteLine("peach");
+			Console.WriteLine("mango");
+			Console.WriteLine("grape");
 		}
 	}
 }
